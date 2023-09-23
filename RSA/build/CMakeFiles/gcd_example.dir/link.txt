@@ -1,0 +1,3 @@
+C:\core\cmake\bin\cmake.exe -E rm -f CMakeFiles\gcd_example.dir/objects.a
+D:\core\mingw64\bin\ar.exe qc CMakeFiles\gcd_example.dir/objects.a @CMakeFiles\gcd_example.dir\objects1.rsp
+D:\core\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\gcd_example.dir/objects.a -Wl,--no-whole-archive -o gcd_example.exe -Wl,--out-implib,libgcd_example.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gcd_example.dir\linkLibs.rsp

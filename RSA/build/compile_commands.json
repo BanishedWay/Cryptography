@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/xujinqi/Documents/git/Cryptography/RSA/build",
+  "command": "D:\\core\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\gcd_example.dir\\main.cpp.obj -c C:\\Users\\xujinqi\\Documents\\git\\Cryptography\\RSA\\main.cpp",
+  "file": "C:/Users/xujinqi/Documents/git/Cryptography/RSA/main.cpp",
+  "output": "CMakeFiles/gcd_example.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/xujinqi/Documents/git/Cryptography/RSA/build",
+  "command": "D:\\core\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\gcd_example.dir\\algorithm.cpp.obj -c C:\\Users\\xujinqi\\Documents\\git\\Cryptography\\RSA\\algorithm.cpp",
+  "file": "C:/Users/xujinqi/Documents/git/Cryptography/RSA/algorithm.cpp",
+  "output": "CMakeFiles/gcd_example.dir/algorithm.cpp.obj"
+}
+]
